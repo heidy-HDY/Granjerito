@@ -89,7 +89,7 @@ const zonasClicables = [
         left: 41,
         width: 20,
         height: 3.5,
-        url: "https://wa.me/573184253351?text=%C2%A1Hola%21+Confirmo+mi+asistencia+al+cumple+de+Aar%C3%B3n%0A%0A%C2%A1Ah%C3%AD+estar%C3%A9+para+celebrar+su+primer+a%C3%B1ito%21"
+        url: "https://wa.me/573102222051?text=%C2%A1Hola%21+Confirmo+mi+asistencia+al+cumple+de+Aar%C3%B3n%0A%0A%C2%A1Ah%C3%AD+estar%C3%A9+para+celebrar+su+primer+a%C3%B1ito%21"
     }
 ];
 
