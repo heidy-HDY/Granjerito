@@ -82,14 +82,7 @@ window.addEventListener("load", function () {
 const imagenInvitacion = document.querySelector(".invitacion-imagen");
 
 const zonasClicables = [
-    {
-        nombre: "ubicacion",
-        top: 84.2,
-        left: 39,
-        width: 22,
-        height: 3.6,
-        url: "https://maps.app.goo.gl/RxhTFU9EkgkWLBkCA"
-    },
+    
     {
         nombre: "confirmar",
         top: 90.5,
